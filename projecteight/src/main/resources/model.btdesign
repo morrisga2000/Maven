@@ -1,0 +1,8 @@
+Application MyWebApp {
+    basePackage=com.projecteight
+
+    Module mywebmodule {
+
+	}
+
+}
